@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing custom Odoo modules and optimizing business reports using Python and XML.<br><br>👯 I’m looking to collaborate on Python-based automation projects and data analysis tools.<br><br>🤝 I’m looking for help with Mastering advanced deployment techniques and complex data visualization.<br><br>🌱 I’m currently learning Advanced Data Science techniques and Odoo 18 features.<br><br>💬 Ask me about Odoo ERP customization, PostgreSQL, and Machine Learning models like Random Forest or KNN.<br><br>⚡ Fun fact I enjoy finding the "missing link" in data to solve real-world business problems.
+🔭 I’m currently working on Developing custom Odoo modules and optimizing business reports using Python and XML.<br><br>👯 I’m looking to collaborate on Python-based automation projects and data analysis tools.<br><br>🤝 I’m looking for help with Mastering advanced deployment techniques and complex data visualization.<br><br>🌱 I’m currently learning Advanced Data Science techniques and Odoo 18 & Odoo 19 features.<br><br>💬 Ask me about Odoo ERP customization, PostgreSQL, and Machine Learning models like Random Forest or KNN.<br><br>⚡ Fun fact I enjoy finding the "missing link" in data to solve real-world business problems.
 
 
 ## 🌐 Socials:
